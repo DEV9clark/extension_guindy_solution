@@ -1,0 +1,200 @@
+[
+  {
+    "id": 1,
+    "title": "Locasen Test",
+    "url": "https://groupelocasen-soft.com/locasen_back_test/",
+    "icon": "https://groupelocasen-soft.com/locasen_back_test/assets/media/logos/logo.svg"
+  },
+  {
+    "id": 2,
+    "title": "Locasen Prod",
+    "url": "https://groupelocasen-soft.com/",
+    "icon": "https://groupelocasen-soft.com/assets/media/logos/logo.svg"
+  },
+  {
+    "id": 3,
+    "title": "FoodTruck Test",
+    "url": "https://foodtrucknomad.com/foodtruck_back_test",
+    "icon": "https://foodtrucknomad.com/foodtruck_back_test/assets/media/logos/logo.svg"
+  },
+  {
+    "id": 4,
+    "title": "FoodTruck Prod",
+    "url": "https://foodtrucknomad.com/foodtruck_back",
+    "icon": "https://foodtrucknomad.com/foodtruck_back/assets/media/logos/logo.svg"
+  },
+  {
+    "id": 5,
+    "title": "Praline Test",
+    "url": "https://praline-sn.com/praline_back_test/",
+    "icon": "https://praline-sn.com/praline_back_test/assets/media/logos/logo.svg"
+  },
+  {
+    "id": 6,
+    "title": "Praline Prod",
+    "url": "https://praline-sn.com/",
+    "icon": "https://praline-sn.com/praline_back/assets/media/logos/logo.svg"
+  },
+  {
+    "id": 7,
+    "title": "O'Sushi Bar Test",
+    "url": "https://osushibar-soft.com/o_sushi_bar_test/login#/",
+    "icon": "https://osushibar-soft.com/assets/images/logo/logo.png"
+  },
+  {
+    "id": 8,
+    "title": "O'Sushi Bar Prod",
+    "url": "https://osushibar-soft.com/login#/",
+    "icon": "https://osushibar-soft.com/assets/images/logo/logo.png"
+  },
+  {
+    "id": 9,
+    "title": "Yogi Vida Test",
+    "url": "https://www.yogi-vida.com/yogivida_back_test/login#/",
+    "icon": "https://www.yogi-vida.com/yogivida_back_test/css/app-assets/images/logo/BlancNoir.svg"
+  },
+  {
+    "id": 10,
+    "title": "Yogi Vida Prod",
+    "url": "https://www.yogi-vida.com/yogivida_back/login#/",
+    "icon": "https://www.yogi-vida.com/yogivida_back/css/app-assets/images/logo/BlancNoir.svg"
+  },
+  {
+    "id": 11,
+    "title": "Samaka Front Test",
+    "url": "https://samaka-surfcamp.com/front_test",
+    "icon": "https://samaka-surfcamp.com/assets/images/icons/logo.svg"
+  },
+  {
+    "id": 12,
+    "title": "Samaka Front Prod",
+    "url": "https://samaka-surfcamp.com/front",
+    "icon": "https://samaka-surfcamp.com/assets/images/icons/logo.svg"
+  },
+  {
+    "id": 13,
+    "title": "Samaka Back Test",
+    "url": "https://samaka-surfcamp.com/samaka_back_test/login",
+    "icon": "https://samaka-surfcamp.com/samaka_back_test/assets/media/svg/illustrations/slide-1.png"
+  },
+  {
+    "id": 14,
+    "title": "Samaka Back Prod",
+    "url": "https://samaka-surfcamp.com/samaka_back/login",
+    "icon": "https://samaka-surfcamp.com/samaka_back/assets/media/svg/illustrations/slide-1.png"
+  },
+  {
+    "id": 15,
+    "title": "Spirit & Body Front Test",
+    "url": "https://spiritandbody-sn.com/front_test/",
+    "icon": "https://spiritandbody-sn.com/front_test/images/logo.svg"
+  },
+  {
+    "id": 16,
+    "title": "Spirit & Body Front Prod",
+    "url": "https://spiritandbody-sn.com/",
+    "icon": "https://spiritandbody-sn.com/images/logo.svg"
+  },
+  {
+    "id": 17,
+    "title": "Spirit & Body Back Test",
+    "url": "https://spiritandbody-sn.com/spiritandbody_back_test/login",
+    "icon": "https://spiritandbody-sn.com/spiritandbody_back_test/assets/images/logo/logo.svg"
+  },
+  {
+    "id": 18,
+    "title": "Spirit & Body Back Prod",
+    "url": "https://spiritandbody-sn.com/spiritandbody_back/login",
+    "icon": "https://spiritandbody-sn.com/spiritandbody_back/assets/images/logo/logo.svg"
+  },
+  {
+    "id": 19,
+    "title": "Aidibe front Test",
+    "url": "https://docteuribrahimaidibe.com/front_test/login",
+    "icon": "https://docteuribrahimaidibe.com/assets/images/logo.svg"
+  },
+  {
+    "id": 20,
+    "title": "Aidibe front Prod",
+    "url": "https://docteuribrahimaidibe.com/",
+    "icon": "https://docteuribrahimaidibe.com/assets/images/logo.svg"
+  },
+  {
+    "id": 21,
+    "title": "Aidibe Back Test",
+    "url": "https://docteuribrahimaidibe.com/docteuribrahimaidibe_back_test/login",
+    "icon": "https://docteuribrahimaidibe.com/docteuribrahimaidibe_back_test/assets/media/logos/logo.svg"
+  },
+  {
+    "id": 22,
+    "title": "Aidibe Back Prod",
+    "url": "https://docteuribrahimaidibe.com/docteuribrahimaidibe_back/login",
+    "icon": "https://docteuribrahimaidibe.com/docteuribrahimaidibe_back/assets/media/logos/logo.svg"
+  },
+  {
+    "id": 23,
+    "title": "Nahyel Front Test",
+    "url": "https://nahyelconceptstore.com/front_test/",
+    "icon": "https://nahyelconceptstore.com/front_test/assets/images/logo/logo.svg"
+  },
+  {
+    "id": 24,
+    "title": "Nahyel Front Prod",
+    "url": "https://nahyelconceptstore.com/",
+    "icon": "https://nahyelconceptstore.com/assets/images/logo/logo.svg"
+  },
+  {
+    "id": 25,
+    "title": "Nahyel Back Test",
+    "url": "https://nahyelconceptstore.com/adminpro_test/login",
+    "icon": "https://nahyelconceptstore.com/adminpro_test/assets/media/logos/logo-login.svg"
+  },
+  {
+    "id": 26,
+    "title": "Nahyel Back Prod",
+    "url": "https://nahyelconceptstore.com/adminpro/login",
+    "icon": "https://nahyelconceptstore.com/adminpro/assets/media/logos/logo-login.svg"
+  },
+  {
+    "id": 27,
+    "title": "Med infos Front Test",
+    "url": "https://www.med-infos.net/front_test",
+    "icon": "https://www.med-infos.net/assets/images/logo/logo.svg"
+  },
+  {
+    "id": 28,
+    "title": "Med infos Back Test",
+    "url": "https://www.med-infos.net/med_infos_back_test/login",
+    "icon": "https://www.med-infos.net/med_infos_back_test/assets/media/svg/illustrations/barem.svg"
+  },
+  {
+    "id": 29,
+    "title": "Med infos Back Prod",
+    "url": "https://www.med-infos.net/med_infos_back/login",
+    "icon": "https://www.med-infos.net/med_infos_back/assets/media/svg/illustrations/barem.svg"
+  },
+  {
+    "id": 30,
+    "title": "Paramarket Back Test",
+    "url": "https://www.paramarketafrica.com/soft_test/login",
+    "icon": "https://www.paramarketafrica.com/soft_test/css/app-assets/images/logos/logo-login.svg"
+  },
+  {
+    "id": 31,
+    "title": "Paramarket Back Prod",
+    "url": "https://www.paramarketafrica.com/soft/login",
+    "icon": "https://www.paramarketafrica.com/soft/css/app-assets/images/logos/logo-login.svg"
+  },
+  {
+    "id": 32,
+    "title": "Hoballahome Back Test",
+    "url": "https://hoballahome.com/hoballahome_back_test/login",
+    "icon": "https://hoballahome.com/hoballahome_back_test/assets/images/logo/logo.svg"
+  },
+  {
+    "id": 33,
+    "title": "Hoballahome Back Prod",
+    "url": "https://hoballahome.com/hoballahome_back/login",
+    "icon": "https://hoballahome.com/hoballahome_back/assets/images/logo/new_logo_login.svg"
+  }
+]
